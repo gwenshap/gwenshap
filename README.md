@@ -43,6 +43,32 @@ I plan to add here a bunch of links to things I wrote, presented or recorded. I 
   
 ## Oracle
 
+## Recording Setup
+A lot of folks asked for it, so here we go: 
+* Camera:
+  * Sony FX30, recording directly to my laptop via USB.
+  * Lens: Sigma 16mm f/1.4 DC DN Contemporary Lens (Sony E)
+  * Camera tripod is on my desk: Oben CTT-1000 Carbon Fiber Tabletop Tripod (I tried about 100 tripods and setups. This one works. Barely). 
+* Lights:
+  * I have two warm, bright lights (4000k): one to my front and right, showing my face, and the other on my back and left, bouncing off a wall and my hair. The technically correct setup has two front lights, but I ran out of room.
+  * Both are: Amaran COB 60x S Bi-Color LED Monolight
+  * Front light has a softbox: Aputure Light Dome Mini III (22.8")
+  * Front light has a heavy-duty stand: Impact Folding Wheeled Base Stand (Black/Chrome-plated, 11')
+  * Back light is connected to the ceiling (my cats kept jarring the stand)
+  * The orange decorative light on my back right side is: Aputure MC RGBWW LED Light
+  * I got blackout curtains for my office to make the lighting consistent.
+* Audio:
+  * Rode Procaster mic
+  * Mic arm: Elgato Wave LP (low profile). I also tried the Rode mic arm; it is great, but low profile doesn't get in the way. I have very limited space.
+  * Rode PSM1 shock mount (important if you wave your arms like me)
+  * Triton Fet head booster (so I can move the mic away from my face)
+  * Vocaster two interface. I keep getting tempted to buy a fancier one, but I resist. This one is just fine.
+* No desktop controllers. I tried one from Elgato. It looks like a good idea. But didn't work for me.
+* Process:
+  * This went through many iterations, but this one seems to stick.
+  * Record with ScreenFlow (currently v10)
+  * Rough edit with Screenflow. Cut out the sections that didn't work. Right screen size, zoom-in and out, callouts, transitions between me and the screen recording.
+  * Fine tune with Descript. Mostly cut out all the "ehhh". Also do captions if I feel like having captions.
 
 
 
